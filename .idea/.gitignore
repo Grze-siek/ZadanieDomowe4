@@ -1,0 +1,15 @@
+# Default ignored files
+/workspace.xml
+/../out/production/ZdanieDomowe4/polafigur/Circle.class
+/misc.xml
+/modules.xml
+/../out/production/ZdanieDomowe4/polafigur/Rectangle.class
+/../out/production/ZdanieDomowe4/triangle/RightTriangle.class
+/../out/production/ZdanieDomowe4/polafigur/ShapeCalculator.class
+/../out/production/ZdanieDomowe4/polafigur/Square.class
+/../out/production/ZdanieDomowe4/polafigur/TestClass.class
+/../out/production/ZdanieDomowe4/polafigur/Triangle.class
+/../out/production/ZdanieDomowe4/triangle/Triangle.class
+/../out/production/ZdanieDomowe4/triangle/TriangleTest.class
+/vcs.xml
+/../ZdanieDomowe4.iml
